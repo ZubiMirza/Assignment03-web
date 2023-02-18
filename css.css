@@ -1,0 +1,10 @@
+.you{
+    display: flex;
+}
+.lk{
+    padding-left:750px;
+}
+.youfour{
+    display: flex;
+    justify-content: space-around;
+}
